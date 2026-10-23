@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\MyArr.h.obj",
+            "outputs": [
+                "C:\\Users\\Cern_of73\\source\\repos\\Project2\\Project2\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\Cern_of73\\source\\repos\\Project2\\Project2\\x64\\Debug\\MyArr.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "MyArr.h",
+                    "source-path": "c:\\users\\cern_of73\\source\\repos\\project2\\project2\\myarr.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

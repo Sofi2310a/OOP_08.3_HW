@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\MyArr.obj",
+            "outputs": [
+                "x64\\Debug\\MyArr.h_BF9D64D153FC1077.ifc.dt.module.json",
+                "x64\\Debug\\MyArr.h_BF9D64D153FC1077.ifc.dt.d.json",
+                "x64\\Debug\\MyArr.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Cern_of73\\source\\repos\\Project2\\Project2\\MyArr.h",
+                    "source-path": "c:\\users\\cern_of73\\source\\repos\\project2\\project2\\myarr.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
